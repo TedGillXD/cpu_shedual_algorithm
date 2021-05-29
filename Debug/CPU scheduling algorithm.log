@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\watas\OneDrive\CPU scheduling algorithm\Processor.h(61,30): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\watas\OneDrive\CPU scheduling algorithm\Processor.h(73,32): warning C4018: '<': signed/unsigned mismatch
+  CPU scheduling algorithm.vcxproj -> C:\Users\watas\OneDrive\CPU scheduling algorithm\Debug\CPU scheduling algorithm.exe

@@ -1,0 +1,3 @@
+D:\OneDrive\CPU scheduling algorithm\Debug\CPU scheduling algorithm.exe
+D:\OneDrive\CPU scheduling algorithm\Debug\CPU scheduling algorithm.pdb
+C:\Users\watas\OneDrive\CPU scheduling algorithm\Debug\CPU scheduling algorithm.exe
